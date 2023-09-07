@@ -1,0 +1,7 @@
+"Crate Ninja" is an exciting game that embarked on its development journey in June 2023, utilizing the powerful Unity game engine. Inspired by the classic Fruit Ninja, this game serves as a hands-on learning experience to master essential Unity concepts and refine skills in particle systems, sound control, UI design, and level creation, all thanks to the comprehensive "Unity Learn" online tutorials.
+
+The game boasts an intuitive and visually appealing user interface that enhances the overall gaming experience. In "Crate Ninja," your mission is to slice incoming crates with precision. However, the challenge lies in managing your lives; every incorrect slice on a bad crate leads to a decrease in your life count. When your lives hit zero, it's game over.
+
+With "Crate Ninja," you can test your slicing skills across three difficulty levels: easy, medium, and hard. To make things even more engaging, a score system is in place, encouraging players to push their limits and aim for high scores.
+
+The game's assets, generously provided by Unity Technologies, ensure a polished and professional look. All of these assets, along with the valuable course library package named "Create With Code," have contributed to the creation of "Crate Ninja," making it a fantastic journey into the world of Unity game development.
